@@ -76,20 +76,7 @@ The objective of this project is to automate invoice data extraction and reduce 
 The model successfully extracts invoice metadata and item descriptions from invoices and exports the information in a structured spreadsheet format for easy analysis and integration with business systems.
 
 ---
-# 📸 Project Screenshots
-
-## Invoice Extraction Result
-
-<img src="./invoice-extraction-result.png" width="1000"/>
-
-Shows:
-- Invoice Number
-- Issue Date
-- Total Amount
-- Vendor Name
-- Product Descriptions
-
----
+# 📸 Project Screenshot
 
 ## Extracted Excel Output
 
