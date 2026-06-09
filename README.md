@@ -93,17 +93,12 @@ Shows:
 
 ## Extracted Excel Output
 
-<img src="./excel-export.png" width="1000"/>
+<img src="./excel_export.png" width="1000"/>
 
 Structured data exported to XLSX format.
 
 ---
 
-## Nanonets Workflow
-
-<img src="./workflow.png" width="1000"/>
-
-Invoice processing and extraction workflow.
 ### GitHub Repository Description (short)
 
 ```text
