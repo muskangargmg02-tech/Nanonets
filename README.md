@@ -1,13 +1,3 @@
-Based on the screenshot, your Nanonets workflow is extracting:
-
-* Invoice Number
-* Issue Date
-* Total Amount
-* Vendor Name
-* Item Descriptions (Line Items)
-
-To get results similar to the screenshot, you can use the following GitHub README content.
-
 # Invoice Description Buyer Extraction using Nanonets
 
 ## Overview
