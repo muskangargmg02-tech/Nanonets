@@ -76,7 +76,34 @@ The objective of this project is to automate invoice data extraction and reduce 
 The model successfully extracts invoice metadata and item descriptions from invoices and exports the information in a structured spreadsheet format for easy analysis and integration with business systems.
 
 ---
+# 📸 Project Screenshots
 
+## Invoice Extraction Result
+
+<img src="./invoice-extraction-result.png" width="1000"/>
+
+Shows:
+- Invoice Number
+- Issue Date
+- Total Amount
+- Vendor Name
+- Product Descriptions
+
+---
+
+## Extracted Excel Output
+
+<img src="./excel-export.png" width="1000"/>
+
+Structured data exported to XLSX format.
+
+---
+
+## Nanonets Workflow
+
+<img src="./workflow.png" width="1000"/>
+
+Invoice processing and extraction workflow.
 ### GitHub Repository Description (short)
 
 ```text
